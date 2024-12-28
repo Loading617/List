@@ -1,2 +1,2 @@
 # List
-Online IPTV Editor
+IPTV Editor Web App
